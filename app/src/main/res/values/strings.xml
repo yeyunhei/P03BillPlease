@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">P03 Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="amountinput">Enter amount here</string>
+    <string name="paxnum">Num of Pax</string>
+    <string name="paxnumInput">Enter number of pax here</string>
+    <string name="svs">SVS</string>
+    <string name="gst">GST</string>
+    <string name="discount">Discount (%)</string>
+    <string name="discountinput">Enter percentage of discount here</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="totalbill">Total Bill: $0.00</string>
+    <string name="splitamount">Each pays: $0.00</string>
+
+
+</resources>
